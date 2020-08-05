@@ -48,8 +48,6 @@ Why I am obsessed with the community? Because they are really that good!
 
 It's like experiencing a first-class customer services even though you didn't buy any products or services. Or if I were to use in gangster terms - it's like they make you an offer you can't refuse.
 
-![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/pp1oj2obq3qba9kgjwa7.jpg)
-
 ##Wait, do I have to complete 100 days without a break?
 
 Of course, not! We are all humans and there will be a days where you cannot open your text editor. In fact, you're more likely to encounter situations where you're unable to write codes due to circumstances beyond your control like falling ill, family or work obligations, or meteor hitting on your house and destroyed your computer.
