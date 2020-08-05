@@ -11,9 +11,9 @@ I know the syntax. I know what the concepts like variables, functions, if statem
 
 Okay, that's good and all. But here comes the questions:
 
-● Do you know when and when not to apply them?
-● Do you know what you are going to use it for?
-● Do you know what tools or features you need to build your project?
+- Do you know when and when not to apply them?
+- Do you know what you are going to use it for?
+- Do you know what tools or features you need to build your project?
 
 No? Then you are suffering from a lack of context.
 
@@ -62,5 +62,5 @@ Besides, knowing Vanilla Javascript will make it easier to work with frameworks,
 I hope you find this article helpful and happy coding!
 
 For additional sources:
-● https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/
-● https://simplestepscode.com/learn-javascript/
+- [https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/](https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/)
+- [https://simplestepscode.com/learn-javascript/](https://simplestepscode.com/learn-javascript/)
