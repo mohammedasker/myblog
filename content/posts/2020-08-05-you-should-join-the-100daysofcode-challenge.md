@@ -7,8 +7,6 @@ tags:
 ---
 Few days ago, I have successfully completed the 100 days of code challenge! Woohoo!!
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 100 <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a><br><br>I crossed the finish line 🏁🥳<br><br>What a crazy ride! I meet so many amazing people and learn a lot from you. There&#39;s still more work to do &amp; prepare for 2nd round of the challenge.<br><br>But for now, let&#39;s celebrate! 🎉🎉<a href="https://twitter.com/hashtag/CodeNewbie?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbie</a> <a href="https://twitter.com/hashtag/BlackTechTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#BlackTechTwitter</a></p>&mdash; Mohammed Asker (@MooAsker) <a href="https://twitter.com/MooAsker/status/1184517519337500673?ref_src=twsrc%5Etfw">October 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 I also come to realize that I have learn more about the programming than I originally thought. Not only do I have improved a lot since the day I started back in June, I also meet amazing people on Twitter who help me to make learning to code more fun.
 
 ##Before joining the challenge
@@ -49,8 +47,6 @@ Here are some perks you get when joining the challenge:
 Why I am obsessed with the community? Because they are really that good!
 
 It's like experiencing a first-class customer services even though you didn't buy any products or services. Or if I were to use in gangster terms - it's like they make you an offer you can't refuse.
-
-![Alt Text](https://thepracticaldev.s3.amazonaws.com/i/pp1oj2obq3qba9kgjwa7.jpg)
 
 ##Wait, do I have to complete 100 days without a break?
 
