@@ -11,7 +11,7 @@ module.exports = {
 		siteHeadline: `Mohammed Asker - Front-end Developer, Blogger, and Freelancer`,
 		siteUrl: `https://mohammedasker.com`,
 		siteDescription: `Front-end Developer, Blogger, and Freelancer. I share things I learnt about web development and programming.`,
-		siteImage: `static/banner.jpg`,
+		siteImage: `/banner.jpg`,
 	},
 	plugins: [
 		{
