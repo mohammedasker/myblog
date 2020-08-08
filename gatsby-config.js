@@ -10,7 +10,8 @@ module.exports = {
 		siteTitleAlt: `Mohammed Asker - Front-end Developer, Blogger, and Freelancer`,
 		siteHeadline: `Mohammed Asker - Front-end Developer, Blogger, and Freelancer`,
 		siteUrl: `https://mohammedasker.com`,
-		siteDescription: `Front-end Developer, Blogger, and Freelancer. I share things I learnt about web development and programming.`,
+		siteDescription: `I'm a Front-End Developer building a beautiful, mobile-responsive,
+		and accessible websites and web applications.`,
 		siteImage: `/banner.jpg`,
 	},
 	plugins: [
@@ -43,7 +44,7 @@ module.exports = {
 					},
 					{
 						name: `LinkedIn`,
-						url: `https://www.linkedin.com/mohdasker/`,
+						url: `https://linkedin.com/in/mohdasker`,
 					},
 				],
 			},
@@ -51,16 +52,17 @@ module.exports = {
 		{
 			resolve: `gatsby-plugin-google-analytics`,
 			options: {
-				trackingId: process.env.GOOGLE_ANALYTICS_ID,
+				trackingId: `UA-174924847-1`,
 			},
 		},
 		`gatsby-plugin-sitemap`,
 		{
 			resolve: `gatsby-plugin-manifest`,
 			options: {
-				name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-				short_name: `minimal-blog`,
-				description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+				name: `Mohammed Asker - Front-end Developer, Blogger, and Freelancer`,
+				short_name: `Mohammed Asker`,
+				description: `I'm a Front-End Developer building a beautiful, mobile-responsive,
+				and accessible websites and web applications.`,
 				start_url: `/`,
 				background_color: `#fff`,
 				theme_color: `#6B46C1`,

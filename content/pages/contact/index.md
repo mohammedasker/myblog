@@ -28,7 +28,7 @@ slug: "/contact"
                             <br/>
 							<input
 								type="email"
-								name="email"
+								name="_replyto"
 								aria-label="email"
 								placeholder="Email"
 								required
@@ -39,6 +39,7 @@ slug: "/contact"
                                 padding: 10px;
                                 border: 1px solid gray;'
 							/>
+                            <input type="text" name="_gotcha" style="display:none" />
 						</div>
 						<textarea
 							name="message"
