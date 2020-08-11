@@ -12,6 +12,8 @@ module.exports = {
 		siteUrl: `https://mohammedasker.com`,
 		siteDescription: `I'm a Front-End Developer building a beautiful, mobile-responsive,
 		and accessible websites and web applications.`,
+		siteLanguage: `en`,
+		author: `@MooAsker`,
 		siteImage: `/banner.jpg`,
 	},
 	plugins: [
