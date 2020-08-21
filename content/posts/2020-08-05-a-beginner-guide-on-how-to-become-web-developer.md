@@ -2,6 +2,7 @@
 layout: blog
 title: A Beginner Guide on How to Become Web Developer
 date: 2020-08-05T14:13:54.817Z
+thumbnail: /images/uploads/5wdv8rm5ai0mb6qfcetq.jpg
 tags:
   - Web Development
 ---
