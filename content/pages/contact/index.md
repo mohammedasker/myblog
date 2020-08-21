@@ -7,7 +7,7 @@ slug: "/contact"
 				<div>
 					<form
 						class="contact-form"
-						action="https://formspree.io/xpzydbja"
+						action="https://formspree.io/mwkrjnvw"
 						method="POST"
 						aria-label="contact-form"
 					>
