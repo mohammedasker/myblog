@@ -30,7 +30,7 @@ Place the URL you just copied in the action attribute of your form. Make sure th
 
 Here's a code example:
 
-```
+```html{1}
 <form action="https://formspree.io/randomletters" method="POST">
   <input type="text" name="name">
   <input type="email" name="_replyto">
