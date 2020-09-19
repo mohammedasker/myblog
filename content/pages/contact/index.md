@@ -3,7 +3,7 @@ title: Contact
 slug: "/contact"
 ---
 
-<p>Got a project idea and want to turn it into a reality? Let's make it happen!</p>
+<p>Have a project idea you want to turn into reality? Take a moment to fill this form and I will get back to you within 24 hours.</p>
 				<div>
 					<form
 						class="contact-form"

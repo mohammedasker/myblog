@@ -5,6 +5,7 @@ date: 2020-08-05T07:28:26.062Z
 tags:
   - Programming
 ---
+
 Few days ago, I have successfully completed the 100 days of code challenge! Woohoo!!
 
 I also come to realize that I have learn more about the programming than I originally thought. Not only do I have improved a lot since the day I started back in June, I also meet amazing people on Twitter who help me to make learning to code more fun.
@@ -31,7 +32,7 @@ The rules of the challenge are pretty straightforward and basically goes somethi
 
 1.Code minimum an hour every day for the next 100 days.
 2.Encourage at least two other people in the challenge on Twitter every day.
-3.Tweet your progress every day using the #100DaysOfCode hashtag.  
+3.Tweet your progress every day using the #100DaysOfCode hashtag.
 
 Programmers of every level are welcomed and encouraged to join the challenge. It doesn't matter whether you wrote your first "Hello World" in HTML or you're personally responsible for sending the Tesla Roadster to space.
 
@@ -57,10 +58,10 @@ In my case, There have been a time when my internet went down for 2 weeks straig
 I never saw anyone completing the challenge without breaking the streak, so there's no pressure for you. Take a break when necessary.
 
 ##Conclusion
-I'm glad that I've join the challenge and stick it to the end without giving up. Thanks to this movement, I have went from "I don't anything about JavaScript" to "I have a working knowledge in JavaScript". While I'm not ready to hunt for a software engineer job, I believe it has helped me to grow both as a programmer and as a person. I'm looking forward to do the second around soon. 
+I'm glad that I've join the challenge and stick it to the end without giving up. Thanks to this movement, I have went from "I don't anything about JavaScript" to "I have a working knowledge in JavaScript". While I'm not ready to hunt for a software engineer job, I believe it has helped me to grow both as a programmer and as a person. I'm looking forward to do the second around soon.
 
 So If you decided to give it a try, [check out the official movement website here](https://www.100daysofcode.com/). Just follow the steps and you'll be in your way to the challenge.
 
 Oh, and what happened on that day when I don't know the difference between var, let, and const?
 
-I still don't know the difference yet. :p
+I still don't know the difference yet. :p
