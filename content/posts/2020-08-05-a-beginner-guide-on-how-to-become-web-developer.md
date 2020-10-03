@@ -4,7 +4,7 @@ title: A Beginner Guide on How to Become Web Developer
 date: 2020-08-05T14:13:54.817Z
 thumbnail: /images/uploads/5wdv8rm5ai0mb6qfcetq.jpg
 tags:
-  - Web Development
+  - Web development
 ---
 
 You've made a decision to learn programming and want to get into a web development, but you're not sure where to begin. Fortunately, I've been there before and now I can help to guide you the path of web developer. In this post, I'm going to discuss a brief information of what HTML, CSS, and JavaScript is and what they do along with some examples and the resources where you can learn them.
