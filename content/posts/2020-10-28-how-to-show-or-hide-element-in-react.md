@@ -66,7 +66,7 @@ And we are done! The code is ready to be tested and you can now click the button
 
 This is our final code:
 
-```
+```js
 import React, { useState } from "react";
 
 function App() {
