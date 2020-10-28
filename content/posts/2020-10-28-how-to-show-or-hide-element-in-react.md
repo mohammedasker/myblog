@@ -10,7 +10,7 @@ To show to hide elements in React, we are going to use React Hooks which is a si
 
 We will first begin by importing `useState` function from React library so that we can use the React hooks features:
 
-```
+```js
 import React, { useState } from "react";
 ```
 
@@ -20,7 +20,7 @@ Then, inside the functional component — we will write `const` variable and add
 
 After that, we will write useState and inside the bracket we will set it to `false`, so it will be hidden by default:
 
-```
+```js
 const [showText, setShowText] = useState(false);
 ```
 
@@ -28,7 +28,7 @@ Next, we will create another `const` variable and it will contain an `onClick` a
 
 What this function will do is when the button is clicked, it will change the state to `true` , thus revealing the hidden element:
 
-```
+```js
 const onClick = () => setShowText(true);
 ```
 
@@ -36,7 +36,7 @@ With this, we are all set to use them inside the functional component.
 
 Inside the main component `App`, we will add the `button` element and write the `onClick` attribute. Inside the attribute, add `onClick` props from which we wrote the function earlier.
 
-```
+```js
 <button onClick={onClick}>Click me</button>
 ```
 
@@ -48,13 +48,13 @@ Next, we will write the element in question that will display the hidden text.
 
 We will create a component and name it `Text`. Inside the component, we will write a simple text "You clicked the button!". Feel free to replace this sentence with any words to make this tutorial more amusing.
 
-```
+```js
 const Text = () => <div>You clicked the button!</div>;
 ```
 
 We are almost finished — we will head back to the `App` component and under the button, we'll add the following code:
 
-```
+```js
  {showText ? <Text /> : null}
 ```
 
