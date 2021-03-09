@@ -59,7 +59,7 @@ Okay, here's the thing: you can't access their feature branches yet. You did pul
 
 Here's my illustration to give you an idea of how to rebase works conceptually:
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/oxhn1jc87cud7cycf7wq.png)
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/39ytviqwo3xi4zddh4qb.png)
 
 To use git rebase, you run `git rebase` with the name of your branch:
 
