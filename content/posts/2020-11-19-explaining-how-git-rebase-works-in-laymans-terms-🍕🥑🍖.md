@@ -18,40 +18,40 @@ Let's imagine you are working in a company with your teammates, Peter and Jessic
 
 Here's what your workflow will probably look like:
 
-You begin by opening the terminal and in the master branch, you'll create a new feature branch named `add_pizza`
+You begin by opening the terminal and in the main branch, you'll create a new feature branch named `add_pizza`
 
-```git
+```
 git checkout -b add_pizza
 ```
 
 `git checkout -b` is the equivalent of:
 
-```git
+```
 git branch branch_name
 git checkout branch_name
 ```
 
-The reason why you did this is that you don't want to make changes to the master branch directly. Changing the master branch directly will disrupt your team's work and you don't want that to happen. You also want to keep track of what things have changed in the repository.
+The reason why you did this is that you don't want to make changes to the main branch directly. Changing the main branch directly will disrupt your team's work and you don't want that to happen. You also want to keep track of what things have changed in the repository.
 
 After you created a new branch and you switched to your branch, this is the point where you can start writing codes.
 
 Later on, both Peter and Jessica have finished their work and pushed the feature branches to the remote repository. Now, you want to access their feature branches, but how are you going to do that?
 
-First, you'll go back to the master branch:
+First, you'll go back to the main branch:
 
-```git
-git checkout master
+```
+git checkout main
 ```
 
 Then, you run `git pull` to pull the latest changes made in the remote repository:
 
-```git
+```
 git pull
 ```
 
 When the pulling process is complete and you see that you received the changes from the remote repository, you return to your branch by running `git checkout` and the name of your branch:
 
-```git
+```
 git checkout add_pizza
 ```
 
@@ -63,7 +63,7 @@ Here's my illustration to give you an idea of how to rebase works conceptually:
 
 To use git rebase, you run `git rebase` with the name of your branch:
 
-```git
+```
 git rebase add_pizza
 ```
 
@@ -75,6 +75,6 @@ You probably don't need to use rebase if you are working on your project. but wh
 
 ## Conclusion
 
-In a nutshell, `git rebase` is what allows you to combine someone's branch into your branch so that you can access their codes. And remember: to get their codes from the remote repository, go to the master branch and run `git pull` and to combine their codes into your codes, run `git rebase 'your_branch'`.
+In a nutshell, `git rebase` is what allows you to combine someone's branch into your branch so that you can access their codes. And remember: to get their codes from the remote repository, go to the main branch and run `git pull` and to combine their codes into your codes, run `git rebase 'your_branch'`.
 
 Hopefully, this article has helped you to understand git rebase a little better than before and know how to use it in a collaborative project.
